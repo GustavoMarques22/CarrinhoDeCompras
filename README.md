@@ -68,7 +68,7 @@ Este projeto foi desenvolvido com o objetivo de praticar e fortalecer conhecimen
 
 ## ✨ Demonstração
 
-![Imagem do projeto Carrinho de Compras](./carrinho-compras/assets/CarrinhoCompra.png)
+![Imagem do projeto Carrinho de Compras](./carrinho-compras/assets/CarrinhoCompra.png/)
 
 ---
 
